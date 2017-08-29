@@ -1,0 +1,7 @@
+.selected{
+    border-bottom:2px solid blue;
+    background: lightblue;
+}
+.select{
+    background: #fff;
+}
